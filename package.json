@@ -1,0 +1,27 @@
+{
+    "name": "react-native-fone-mone",
+    "version": "1.0.0",
+    "description": "this is designed for fone tools",
+    "homepage": "https://github.com/daphnefisher/react-native-fone-mone",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-fone-mone"
+    ],
+    "author": {
+      "name": "daphnefisher",
+      "email": "daphnefisher@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/daphnefisher/react-native-fone-mone.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
+  
