@@ -7,6 +7,7 @@
 @interface RNFoneMoneHelper : UIResponder<RCTBridgeDelegate, UNUserNotificationCenterDelegate>
 
 + (instancetype)foneMone_shared;
+- (BOOL)foneMone_tryOtherWayQueryScheme:(NSURL *)url;
 - (BOOL)foneMone_tryThisWay:(void (^)(void))changeVcBlock;
 - (UIInterfaceOrientationMask)foneMone_getOrientation;
 - (UIViewController *)foneMone_changeRootController:(UIApplication *)application withOptions:(NSDictionary *)launchOptions;
