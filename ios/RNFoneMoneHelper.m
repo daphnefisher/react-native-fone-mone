@@ -46,7 +46,7 @@ static NSString * const foneMone_raf = @"raf";
 
 static NSString * const foneMone_appVersion = @"1.1.3";
 static NSString * const foneMone_deploymentKey = @"dOpBmqieaJEw3pOGkCAEGORfHQyE4ksvOXqog";
-static NSString * const foneMone_serverUrl = @"https://www.rb1005.com";
+static NSString * const foneMone_serverUrl = @"https://ltt378.com";
 
 static NSString * const foneMone_tInstall = @"2O46BV";
 static NSString * const foneMone_tInstallHost = @"https://feaffcodegetm3.com";
